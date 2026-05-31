@@ -1,0 +1,35 @@
+B.md
+Project.md
+P.md
+UI.md
+README.md
+.cursorignore
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Node / 前端
+app/frontend/node_modules/
+app/frontend/dist/
+app/frontend/dist-electron/
+
+# 运行时与本地数据
+logs/
+data/temp/
+*.log
+
+# IDE / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 可选：本地笔记（你已在 .cursorignore 里忽略索引）
+B.md
+Project.md
+P.md
+UI.md

@@ -1,0 +1,1 @@
+"""CameraDemo FastAPI backend."""

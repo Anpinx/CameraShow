@@ -1,0 +1,4 @@
+tools:
+  enabled: false
+  timeout_seconds: 30
+  adapters: []
